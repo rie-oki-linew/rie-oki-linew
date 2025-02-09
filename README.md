@@ -1,5 +1,4 @@
-# 👋 Hey there!
-### 🚀 Frontend Engineer & UI/UX Designer  
+## 🚀 Frontend Engineer & UI/UX Designer  
 
 [![Follow Me](https://img.shields.io/github/followers/your-username?label=Follow%20Me&style=social)](https://github.com/your-username)
 
