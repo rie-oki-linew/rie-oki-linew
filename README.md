@@ -16,6 +16,6 @@
 
 ## ☕ About Me
 - 💻 Working at **[Linew Inc.](https://your-company-website.com)** as a Frontend Engineer & UI/UX Designer  
-- 🚀 Always exploring **new CSS architecture**
+- 🏗 Always exploring **new CSS architecture**
+- 🟩 Huge fan of **[@antfu](https://github.com/antfu)**
 - ☕ Coffee addict & code lover
-
